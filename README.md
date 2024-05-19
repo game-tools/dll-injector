@@ -10,6 +10,8 @@ It is possible that your antivirus will detect it as a threat, but don't worry, 
 
 Source Code: https://github.com/game-tools/dll-injector-sc
 
+---
+
 Come here (https://github.com/orgs/game-tools/repositories) and check my Dll's :)
 
 Have Fun!! :)
